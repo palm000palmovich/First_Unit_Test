@@ -14,7 +14,6 @@ public class Student {
         this.isMale = isMale;
     }
 
-
     //Геттеры и сеттеры
     public int getId() {
         return id;
